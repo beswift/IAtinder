@@ -2,7 +2,7 @@
 Tinder like game for tagging ophthalmic images<br>
 To run:<br>
 1) Get the Ionic CLI: npm install -g ionic<br>
-2) In the terminal, create a directory and in that directory: Ionic Start https://github.com/beswift/IAtinder<br>
+2) In the terminal, create a directory and in that directory: git clone https://github.com/beswift/IAtinder<br>
 3)Ionic Serve<br>
 
 *might have to choose localhost or wifi IP after ionic serve<br>
